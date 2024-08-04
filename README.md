@@ -13,8 +13,7 @@ Welcome to the Rock Paper Scissors game! This project is a simple implementation
 - [Technologies Used]
 - [Setup]
 - [How to Play]
-- [Contributing]
-- [License]
+
   
 ## Introduction
 
